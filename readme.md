@@ -1,6 +1,6 @@
 # Recruiting Readme
 
-Do you want to join my team?
+Do you want to join my team? (Will Sutton https://github.com/sutt)
 
 ### Logistics:
 - Main site: https://mitbitcoin.devpost.com/
